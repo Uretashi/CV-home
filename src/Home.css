@@ -1,0 +1,46 @@
+.home {
+    display: flex;
+    min-height: 100vh;
+    text-align: center;
+    background-color: #240a5e;
+}
+
+.logo {
+    width: 49%;
+    position: relative;
+}
+
+.separator {
+    height: 95vh;
+    width: 2px;
+    margin-top: 3vh;
+    background-color: #f56d4e;
+}
+
+.logo > img {
+    width: 400px;
+    height: 130px;
+    position: absolute;
+    top: 40%;
+    right: 25%;
+}
+
+.cv-home {
+    width: 49%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    gap: 50px;
+}
+
+.cv-div > button {
+    width: 125px;
+    height: 115px;
+    background-color: #0e5859;
+    border-radius: 10px;
+    color: ghostwhite;
+    font-weight: 600;
+    font-size: 15px;
+    cursor: pointer;
+    box-shadow: rgba(6, 24, 44, 0.4) 0px 0px 0px 2px, rgba(6, 24, 44, 0.65) 0px 4px 6px -1px, rgba(255, 255, 255, 0.08) 0px 1px 0px inset;
+}
