@@ -11,16 +11,16 @@ export default function Home() {
             <span className="separator"></span>
             <div className="cv-home">
                 <div className="cv-div">
-                    <button>Alexandre</button>
+                    <button><a href="https://helpful-pasca-ac9bb9.netlify.app/">Alexandre</a></button>
                 </div>
                 <div className="cv-div">
-                    <button>Gary</button>
+                    <button><a href="https://loquacious-squirrel-c39fee.netlify.app/">Gary</a></button>
                 </div>
                 <div className="cv-div">
-                    <button>Mouhssine</button>
+                    <button><a href="https://clinquant-youtiao-a1b441.netlify.app/">Mouhssine</a></button>
                 </div>
                 <div className="cv-div">
-                    <button>Dylan</button>
+                    <button><a href="https://sunny-cucurucho-81ccd1.netlify.app">Dylan</a></button>
                 </div>
             </div>
         </div>
